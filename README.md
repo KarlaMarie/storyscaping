@@ -17,3 +17,10 @@ evt. problemstilling
 * Child theme 
 * Css
 * Plugins
+
+## Forklaring af shortcode
+
+```bash
+indsæt afsnit af kode 
+```
+forklaringen ind her 
