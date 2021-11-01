@@ -1,0 +1,9 @@
+# OS generated DS_Store
+.DS_Store
+
+# OS generated DS_Store
+img/.DS_Store
+
+# ignore OS generated files
+ehthumbs.db
+Thumbs.db
