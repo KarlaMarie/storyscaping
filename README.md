@@ -3,7 +3,7 @@
 ## Problemstilling 
 
 ```bash
-evt. problemstilling
+Hvordan kan Truestory få deres Organizing Idea ”Oplev sammen” kommunikeret ud til målgruppen på en landingpage på deres website? Hvordan kan vi skabe et brandunivers hvor Truestories kunder vil dele deres autentiske oplevelser med Truestory, og der skabes både engagement samt user generated content?
 ```
 
 ## Deltagere
