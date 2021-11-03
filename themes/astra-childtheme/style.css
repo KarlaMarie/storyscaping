@@ -24,7 +24,7 @@
 h1 {font-family: 'font_1' !important;  
 }
 
-p {font-family: 'font_2' !important;  
+p, h2, h3 {font-family: 'font_2' !important;  
 }
 
 
