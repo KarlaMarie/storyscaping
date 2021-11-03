@@ -12,7 +12,9 @@
     transform: translateX(-50%) translateY(-50%) !important;
     text-align: center;
     color: #fff;
+    border-radius: 15px;
 }
+
 
 #velkommen {
     color: #fff;
