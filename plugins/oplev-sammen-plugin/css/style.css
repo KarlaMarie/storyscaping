@@ -38,6 +38,10 @@
     margin-left: 10em;
 }
 
+.popupCloseButton:hover {
+    color: #e00057;
+}
+
 #tekst {
     color: #fff;
     font-weight: 400;
