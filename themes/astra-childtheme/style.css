@@ -21,10 +21,10 @@
 }
 
 /* Her ændres fonten */
-h1 {font-family: 'raleway' !important;  
+h1, h2 {font-family: 'raleway' !important;  
 }
 
-h3, h2, p {font-family: 'roboto' !important;
+h3, p {font-family: 'roboto' !important;
  font-size: 1em; 
 }
 
