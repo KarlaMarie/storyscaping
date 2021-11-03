@@ -21,7 +21,7 @@
 }
 
 /* Her ændres fonten */
-h1.elementor-heading-title elementor-size-default {font-family: 'font_1' !important;  
+.entry-content h1 {font-family: 'font_1' !important;  
 }
 
 h3.elementor-heading-title elementor-size-default, h2.elementor-heading-title elementor-size-default, p {font-family: 'font_2' !important;  
