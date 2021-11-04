@@ -5,7 +5,7 @@
  Author:       Sandie Have, Emma Dalsgaard, Line Bech & Karla Marie Møller
  Author URI:   http://karlamariemoller.dk http://linebech.dk http://sandiehave.dk http://emmadalsgaardn.dk
  Template:     astra
- Version:      0.0.5
+ Version:      0.0.6
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Tags:         Blog, Custom Colors, Custom Logo, Custom Menu, E-Commerce, Editor Style, Entertainment, Featured Images, Full Width Template, Left Sidebar, Microformats, One Column, Post Formats, Right Sidebar, RTL Language Support, Theme Options, Threaded Comments, Translation Ready, Two Columns
@@ -33,8 +33,8 @@ color: #6E549B;}
 
 /*animation af luftballonerne - fra animista.net */
 #luft {
-	-webkit-animation: slide-in-right 5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s ;
-	        animation: slide-in-right 5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1s ;
+	-webkit-animation: slide-in-right 5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 7s ;
+	        animation: slide-in-right 5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 7s ;
 }
 
 /* ----------------------------------------------
