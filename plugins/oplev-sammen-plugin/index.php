@@ -3,7 +3,7 @@
 * Plugin Name: Hello Plug-in 
 * Plugin URI: http://karlamariemoller.dk
 * Description: Dette er et feelgood plugin bestående af HTML5, CSS, JS and PHP. Få folk til at tænke på en de har kær
-* Version: 0.0.1
+* Version: 0.24.2
 * Author: Emma, Sandie, Line & Karla
 * Author URI: http://karlamariemoller.dk
 * License: GPL2
