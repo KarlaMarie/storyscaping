@@ -21,6 +21,9 @@ Hvordan kan Truestory få deres Organizing Idea ”Oplev sammen” kommunikeret 
 ## Forklaring af shortcode
 
 ```bash
-indsæt afsnit af kode 
+#First parameter is a self choosen name for a unique short-code. Second parameter is the name of the function that creates the newsletter
+add_shortcode('show_feelgood_plugin','feelgood_form');
 ```
-forklaringen ind her 
+Vi har efterfølgende tilføjede en shortcode til vores plugin. Her giver vi vores plugin et unikt navn, som nu gør det muligt at vi kan få det ind på vores hjemmeside. Dette gøres via en funktion i elementor kaldet “shortcode”. Vi har kaldet vores plugin ‘show_feelgood_plugin’.
+
+
